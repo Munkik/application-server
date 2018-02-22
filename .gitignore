@@ -1,0 +1,10 @@
+/wlp/usr/servers/*/workarea/
+/wlp/usr/servers/*/logs/
+/wlp/usr/servers/*/resources/
+/wlp/usr/servers/*/tranlog/
+/wlp/usr/servers/*/apps/expanded
+/wlp/usr/servers/*/derby.log
+/wlp/usr/servers/*/data/EJBTimerDB
+/wlp/usr/servers/*/*cachedconfig.properties
+/.idea/
+/WLPServer.iml
